@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi! This is FireStone火石 (@FSFireStone)
+- 👨‍💻I'm currently learning C++
+- 👀I'm interested in Python
+- 📫You'll probably find me @FireStone on all the social media
 
 <!--
 **FSFireStone/FSFireStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
