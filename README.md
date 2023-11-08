@@ -1,4 +1,4 @@
-![image](https://github.com/FSFireStone/FSFireStone/blob/main/FRST_aibackground_github_readme.png "Create by Stable Diffusion AI")
+![image](https://github.com/FSFireStone/FSFireStone/blob/main/images/FRST_aibackground_github_readme.png "Profile Background, Create by Stable Diffusion AI.")
 # 🤗About Me
 ### 👋 Hi! This is FireStone火石 (@FSFireStone)
 - 👨‍💻I'm currently learning C++
