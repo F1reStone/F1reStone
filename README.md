@@ -5,7 +5,7 @@
 - 👀I'm interested in most things computer related (including but not limited to video editing, design, AI Draw, etc.)
 - 📫You'll probably find me @FireStone on the social media.
 
-** _Never stop believing in youself._ **
+***Never stop believing in youself.***
 <!--
 **FSFireStone/FSFireStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
