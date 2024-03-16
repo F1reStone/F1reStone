@@ -1,10 +1,11 @@
 ![Profile Background](https://github.com/FSFireStone/FSFireStone/blob/main/images/FRST_aibackground_github_readme.png "Profile Background, Create by Stable Diffusion AI.")
 # 🤗About Me
-### 👋 Hi! This is FireStone火石 (@FSFireStone)
-- 👨‍💻I'm currently learning C++
+### 👋 Hi! This is FireStone (@FSFireStone)
+- 🌱I'm currently learning C++ and Python
 - 👀I'm interested in most things computer related (including but not limited to video editing, design, AI Draw, etc.)
-- 📫You'll probably find me @FireStone火石 on all the social media.
+- 📫You'll probably find me @FireStone on the social media.
 
+** _Never stop believing in youself._ **
 <!--
 **FSFireStone/FSFireStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
