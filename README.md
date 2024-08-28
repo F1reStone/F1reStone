@@ -2,7 +2,7 @@
 # 🤗About Me
 ### 👋 Hi! This is FireStone (@FSFireStone)
 - 🌱I'm currently learning C++ and Python.
-- 👀I'm interested in most things computer related (including but not limited to video editing, design, AI Draw, etc.)
+- 👀I'm interested in most things computer related (including but not limited to video creation, design, AI Draw, etc.)
 - 📫You'll probably find me @FireStone on the social media.
 
 ***Never stop believing in youself.***
