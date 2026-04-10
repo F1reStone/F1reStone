@@ -2,10 +2,10 @@
 # 🤗About Me
 ### 👋 Hi! This is FireStone (@F1reStone)
 - 🌱I'm currently learning C++ and Python.
-- 👀I'm interested in most things computer related (including but not limited to video creation, design, AI Draw, etc.)
+- 👀I'm interested in most things computer related (including but not limited to video creation, design, AI, game development, etc.)
 - 📫You'll probably find me @FireStone on the social media.
 
-***Never stop believing in youself.***
+***To the infinite future.***
 <!--
 **F1reStone/F1reStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
