@@ -1,9 +1,9 @@
 ![Profile Background](https://github.com/F1reStone/F1reStone/blob/main/images/FRST_aibackground_github_readme.png "Profile Background, Create by Stable Diffusion AI.")
-# 🤗About Me
-### 👋 Hi! This is FireStone (@F1reStone)
-- 🌱I'm currently learning C++ and Python.
-- 👀I'm interested in most things computer related (including but not limited to video creation, design, AI, game development, etc.)
-- 📫You'll probably find me @FireStone on the social media.
+# About
+### Hi! This is FireStone (@F1reStone)
+- I'm currently learning C++ and Python.
+- I'm interested in most things computer related (including but not limited to video creation, design, AI, game development, etc.)
+- You'll probably find me @FireStone on the social media.
 
 ***To the infinite future.***
 <!--
